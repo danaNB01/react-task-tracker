@@ -27,6 +27,7 @@ React
 *✨ How to Run*
 ---
 Clone the repo:
+
 git clone https://github.com/danaNB01/react-task-tracker.git
 
 
